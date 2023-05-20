@@ -1,2 +1,3 @@
 # sitebook-homelab-public
-My HomeLab SiteBook
+
+My Homelab sitebook. Please don't hack me.
